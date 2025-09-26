@@ -59,7 +59,7 @@ For evaluation purposes, a demo user is seeded:
 
 1. **Clone the repository**
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/Kamalesh0610/Fullstack-Resume-App.git
    cd ai-resume-builder
    ```
 
