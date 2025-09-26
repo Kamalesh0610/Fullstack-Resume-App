@@ -1,0 +1,5 @@
+{
+  "name": "AI Resume Builder",
+  "description": "An intelligent resume building platform that helps users create, manage, and download professional resumes. Features include multiple version saving, a user-friendly dashboard, and PDF export.",
+  "requestFramePermissions": []
+}
