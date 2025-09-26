@@ -148,14 +148,3 @@ The application is containerized and can be deployed using Docker Compose. For p
 3. Set up reverse proxy (nginx) for production
 4. Use managed Redis service
 5. Implement proper logging and monitoring
-
-## Contributing
-
-1. Fork the repository
-2. Create a feature branch
-3. Make changes and test thoroughly
-4. Submit a pull request
-
-## License
-
-This project is for demonstration purposes as part of a full-stack developer internship assignment.
